@@ -1,0 +1,17 @@
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\bin\Debug\net8.0-windows\ByteCrackerUI.exe
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\bin\Debug\net8.0-windows\ByteCrackerUI.deps.json
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\bin\Debug\net8.0-windows\ByteCrackerUI.runtimeconfig.json
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\bin\Debug\net8.0-windows\ByteCrackerUI.dll
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\bin\Debug\net8.0-windows\ByteCrackerUI.pdb
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.Form1.resources
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.csproj.GenerateResource.cache
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.AssemblyInfo.cs
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.dll
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\refint\ByteCrackerUI.dll
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.pdb
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.genruntimeconfig.cache
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ref\ByteCrackerUI.dll
+C:\Users\maste\source\repos\ByteCracker\ByteCrackerUI\obj\Debug\net8.0-windows\ByteCrackerUI.Properties.Resources.resources

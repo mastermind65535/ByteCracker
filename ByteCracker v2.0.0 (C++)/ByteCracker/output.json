@@ -1,0 +1,34 @@
+{
+    "assembly": [],
+    "headers": {
+        "DOS": {
+            "e_cblp": 144,
+            "e_cp": 3,
+            "e_cparhdr": 4,
+            "e_crlc": 0,
+            "e_cs": 0,
+            "e_csum": 0,
+            "e_ip": 0,
+            "e_lfanew": 224,
+            "e_lfarlc": 64,
+            "e_magic": 23117,
+            "e_maxalloc": 65535,
+            "e_minalloc": 0,
+            "e_oemid": 0,
+            "e_oeminfo": 0,
+            "e_ovno": 0,
+            "e_sp": 184,
+            "e_ss": 0
+        },
+        "File": {
+            "Characteristics": 34,
+            "Machine": 34404,
+            "NumberOfSections": 6,
+            "NumberOfSymbols": 0,
+            "PointerToSymbolTable": 0,
+            "SizeOfOptionalHeader": 240,
+            "TimeDateStamp": 1729167360
+        }
+    },
+    "machinecode": []
+}

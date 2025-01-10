@@ -1,0 +1,5 @@
+﻿  ByteCracker.cpp
+C:\Users\hsna0\source\repos\ByteCracker\ByteCracker\ByteCracker.cpp(269,1): warning C4715: 'ByteCracker::Engine::PE::Init': not all control paths return a value
+  ByteCracker.vcxproj -> C:\Users\hsna0\source\repos\ByteCracker\x64\Debug\ByteCracker.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

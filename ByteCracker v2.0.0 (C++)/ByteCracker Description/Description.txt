@@ -1,0 +1,24 @@
+[ Structure - ByteCrackerProjects ]
+	- Project 1
+		- project.json						; Project Config/Detail File
+
+		- exes								; Executables Backup Location
+			- target1.exe.protect			; Base64 Encoded				(Python Example)
+			- target2.exe.protect			; AES_Encrypted					(C# Example)
+			- target3.dll.protect			; Extension Name Change Only	(C++ Example)
+
+		- analysis							; Analysis Files
+
+			- decompiles					; Decompiled Codes Database
+				- target1.py.protect		; Decompiled Code				(Python Example)
+				- target2.cs.protect		; Decompiled Code				(C# Example)
+
+			- assemblies					; Disassembled Codes Database
+				- target1.asm.protect		; Disassembled Code				(Python Example)
+				- target2.asm.protect		; Disassembled Code				(C# Example)
+				- target3.asm.protect		; Disassembled Code				(C++ Example)
+
+			- headers						; Headers Database
+				- target1.json				; Header Json File
+				- target2.json				; Header Json File
+				- target3.json				; Header Json File
